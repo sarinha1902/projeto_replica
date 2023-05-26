@@ -24,6 +24,6 @@ nav a{
     text-decoration: none;
 }
 nav a:hover{
-    color:h51(258,96%,51%);
+    color: hsl(258, 96%, 51%)
     text-decoration: underline;
 }
